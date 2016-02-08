@@ -2,8 +2,8 @@
 layout: post
 title: "Fairtrade in Lichfield"
 author: "Roger Hockney"
-tags: ["commerce"]
-categories: ["reports"]
+tags: ["Commerce"]
+categories: ["Reports"]
 date: 2009-09-30T00:00:00+01:00
 permalink: /:categories/:year-:month-:title.html
 ---

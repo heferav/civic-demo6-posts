@@ -3,7 +3,7 @@ layout: post
 title: "City Hopping"
 author: "Roger Hockney"
 tags: ["architecture"]
-categories: ["reports"]
+categories: ["Reports"]
 date: 2009-10-31T00:00:00+00:00
 permalink: /:categories/:year-:month-:title.html
 ---
