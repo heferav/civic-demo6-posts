@@ -3,9 +3,9 @@ layout: post
 title: "City Hopping"
 author: "Roger Hockney"
 tags: ["architecture"]
-categories: ["Reports"]
+categories: ["Meeting report"]
 date: 2009-10-31T00:00:00+00:00
-permalink: /:categories/:year-:month-:title.html
+permalink: /meeting_reports/:year-:month-:title.html
 ---
 #### Meeting Report ####
 

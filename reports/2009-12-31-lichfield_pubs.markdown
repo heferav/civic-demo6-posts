@@ -3,9 +3,9 @@ layout: post
 title: "Pubs of Lichfield"
 author: "Roger Hockney"
 tags: ["Local History"]
-categories: ["Reports"]
+categories: ["Meeting report"]
 date: 2009-12-31T00:00:00+00:00
-permalink: /:categories/:year-:month-:title.html
+permalink: /meeting_reports/:year-:month-:title.html
 ---
 #### Meeting Report ####
 
