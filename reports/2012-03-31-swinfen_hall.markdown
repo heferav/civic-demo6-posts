@@ -1,0 +1,21 @@
+---
+layout: post
+title: "The History of Swinfen Hall"
+author: "Roger Hockney"
+tags: ["Local History"] 
+categories: ['Meeting report']
+date: 2012-03-31T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+Our March meeting turned out to be a fascinating exploration of the history of Swinfen Hall with Helen Wiser who, with her husband, are owners and operators of the hotel. Located on a site mentioned in the Domesday Book as Swynfeyn, the Hall was designed by Benjamin Wyatt and erected in 1757 for Samuel Swinfen and his wife. Pevsner's Staffordshire describes it as "*brick with ample stone dressings, a seven bay front &hellip; a doorway with Tuscan columns and giant Ionic pilasters*" ... with a 1913 wing "*as big as the house*" which includes a "*big music room*".
+<!-- more -->
+Benjamin's son, James, was also a well known architect , but unfortunately, is best remembered for his monumental scheme at Fonthill Abbey, William Beckford's Gothic Revival Country House in Wiltshire, with its 300 ft high spire. It collapsed twice, the second time with disastrous consequences for the property and Beckford's finances. No such fate faced Swinfen Hall. Set in an estate of 1200 acres and supported by four farms, the estate prospered, passing down through the Swinfen line to a nephew, John Grundy, who took the Swinfen name.
+
+Helen's talk painted a fascinating picture of family affairs at Swinfen in the nineteenth century. Wayward sons brought the property into debt and bankruptcy loomed, only to be avoided by Samuel Swinfen's frugal lifestyle, which succeeded in restoring the estate finances. His son, Henry, married a parlour maid, Patience, who, against all odds, managed to retain the property after Samuel's, and then Henry's, deaths, much to the anger of members of the family who expected to inherit. A legal battle took place over nearly ten years as Patience fought off legal challenges and physical incursions into the estate by aggrieved family members. She became a local heroine, eventually winning her right to inherit and manage the estate. Members who want to delve deeper into this saga of litigation and family angst should read "*The Great Swinfen Case*" by Howard Clayton (Regency Press). Patience then married Charles Wilson Broun, and started a new family. Their son, Michael, subsequently married Laura, heir to the Eno's Salt empire, who brought a substantial inheritance to the estate, allowing the construction of a new wing to the hall to house a magnificent music room.
+
+Family problems again intervened, when their only daughter eloped, Michael ceasing contact with her. In his lifetime, he became a substantial City benefactor, giving land for Beacon Park and making a substantial contribution towards the construction of a new hospital. Upon his death in 1948,the estate was left to the City Council and the Cathedral and the Swinfen Broun Trust was established. In due course, the Council sold the Hall to the Government, who established a borstal there, partly using the Hall as officers' accommodation. By the 1980s, it was acquired by a builder with aspirations to turn it into a hotel. But, predictably, reconstruction was a drain on finances and bankruptcy loomed. The Hall was again for sale - and this is where Helen and Victor Wiser came onto the scene. Already running a successful business, they were seeking a new challenge and so acquired the Hall in January 1987. After 10 months hard work, they opened for business. And, as they say, the rest is history. Apart from refurbishing the Hall, they have reacquired 95 acres of land to establish a deer park, rescued the gardens and planted many trees. Currently, the walled garden is being brought back to life. Helen and her husband are fortunate in having a highly committed staff supporting them, but it is clear from her talk that she has much love for the Hall. We indeed do not fully realise what a gem we have on the doorstep. Helen extended an invitation to the large audience to visit the hotel, enjoy a coffee or afternoon tea and walk round the grounds. I can see her offer being taken up!
+
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
