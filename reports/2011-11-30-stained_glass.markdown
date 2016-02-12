@@ -1,0 +1,20 @@
+---
+layout: post
+title: "One Thousand Years of Stained Glass"
+author: "Roger Hockney"
+tags: ["Local History"] 
+categories: ['Meeting report']
+date: 2011-11-30T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+A large audience enjoyed a highly informative illustrated talk on stained glass by Keith Cattell at our November meeting. Keith was making a welcome return to our evening meetings and didn't disappoint, with an upbeat presentation, which, as always, conveyed his enthusiasm with an in depth knowledge of the subject. 
+
+We were reminded that glassmaking certainly extends back over 5000 years, although our familiarity with glass made objects probably begins with visits to museums where we can see comparatively recent Roman vases and ornaments. The first window glass was made by the Romans, who also discovered that clear glass could take on a range of colours if metal oxides were added to the process. Church glass first occurs around the fourth century AD. Fragments of Saxon stained glass can be found in the widows at St Bede's monastery church, St Paul's, at Jarrow, whilst painting on glass was being practiced at the same time in Germany. However, the golden period for early stained (and painted) glass in churches begins from the 12th century in France. In time, the production of stained glass and its use to create beautiful windows became highly organised. Stained glass lodges were founded in France, where the skills required were learned over seven year apprenticeships. Go to Chartres Cathedral if you want to see impressive medieval stained glass. Closer to home, Canterbury Cathedral is also well endowed with French glass, installed about 1250. 
+
+Inevitably, the subject matter first concentrated on Christ, the Virgin Mary and the Devil, with rules emerging relating to the colours which could be used to represent them. Later, in the Middle Ages, saints, craft guilds and even individuals (if they paid the church for the privilege) appear in church windows. Later, interpretations of the Ten Commandments became a popular subject, conveying powerful Christian messages to the illiterate. In fact, many scenes subsequently created in stained or painted glass at this time became increasingly lurid, conveying spiritual messages in no uncertain terms to the awed population. 
+
+Only very little medieval glass survives. Much was destroyed by Henry VIII at the dissolution of the monasteries, then Cromwell finished the job a century or so later. So our story moves to the 16th and 17th centuries with the rise in the domestic use of decorative glass. Flemish glass designs became popular and were manufactured on a large scale. Set into a larger window and typically based on a roundel about six to twelve inches in diameter, they depicted both religious and domestic scenes and stories ... often with a telling moral. Many can still be found in our older houses. Sadly, here in the British Isles, we virtually lost the skills needed for the production of decorative glass. The resurgence came about in the 19th century, with the Gothic Revival. Much of the stained glass we see in our churches dates from this period. Fuelled by this, and the development of the Arts and Crafts movement, the use of coloured, etched and painted glass for secular as well as religious subjects has enjoyed a revival which we can witness to this day. Increasingly sophisticated techniques have resulted in a new generation of skilled artists producing significant pieces of art. Here in Lichfield, we may think of our own John Piper windows in St John's Chapel, or his work at Coventry Cathedral, or perhaps of the famous artists like Chagall who have used glass as a medium to express their painterly views. When we next stand in front of a stained glass window, we will be able to enjoy it with the benefit of Keith's excellent historical and sometimes humorous talk. Now, what can we invite back to talk about next? 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
