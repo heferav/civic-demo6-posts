@@ -5,7 +5,7 @@ author: "Roger Hockney"
 tags: ["Local History"]
 categories: ['Visit report']
 date: 2013-06-30T00:00:00+01:00
-permalink: /meeting_reports/:year-:month-:title.html
+permalink: /visit_reports/:year-:month-:title.html
 ---
 #### Visit Report ####
 
