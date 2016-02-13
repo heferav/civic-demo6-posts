@@ -1,0 +1,27 @@
+---
+layout: post
+title: "St John's Hospital Without the Barrs"
+author: "Roger Hockney"
+tags: "Local history"
+categories: [“Meeting report"]
+date: 2015-12-31T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+
+#### Meeting Report ####
+
+Our Christmas meeting, enlivened by coffee and mince pies, welcomed the Master of St John's, the Rev Canon Andrew Gorham, to speak about St John's Hospital. A Grade I listed building, St John's Hospital is one of our most iconic city sites, but how many understand its history, or its modern role? 
+
+Andrew took us back in time to 1135. Although just a village overshadowed by a magnificent cathedral, Lichfield was by no means a backwater. The Cathedral was a nationally known place of pilgrimage, housing the venerated bones of St Chad. Centrally located in England, its popularity soared as a place of pilgrimage. The Cathedral's bishop, Roger de Clinton, was a confidant of both King Henry I and King Stephen and he had ambitions for Lichfield. Improvements were made to the Cathedral its Close and the defensive ditch. He created new entrances into the secure precinct around the Cathedral but, for security, these gates or Barrs were closed at nightfall. However, the pilgrims to St Chad's shrine, sometimes travelling from afar, found few lodgings outside the gates. Lichfield was a small village with little welcoming accommodation for travellers. 
+
+Roger de Clinton had other ideas. Accommodation was required outside the precinct where pilgrims could rest overnight. Remember that many pilgrims could be infirm or vulnerable, making the journey to St Chad's shrine in the hope of a divine blessing which would ameliorate their condition. A place to rest and recover from the journey was needed. So, the construction of an Augustinian Priory was commissioned outside the walls at the Culstubbe Gate and named "*St John's Without The Barrs*". Providing shelter, food and hospitality, it welcomed pilgrims from 1135. It was a typical large medieval hall, with a raised dias at the south end and tables lining the body of the hall. Roger, meanwhile, set about enlarging Lichfield to cater further for its visitors. Our grid square street pattern, which was designed by him, survives to this day. 
+
+For three hundred years, St John's efficiently performed its welcoming role. In the process, it grew rich from the income of its chantry chapel, established to enable priests to pray for departed souls - at a fee, of course. However, by the late fifteenth century, pilgrimage declined together with the chantry chapel's use. By 1492, William Smythe, Bishop of Lichfield saw St John's having a new role, not providing accommodation for pilgrims but as almshouses. This period was one in which awareness of the need to support older, perhaps infirm, members of the community was seen as an important duty. The endowment of many almshouses countrywide, many of which survive to this day, can be traced back to this period. The old hospital buildings were demolished and the familiar Tudor building we see today was constructed. Endowed by the citizens of Lichfield, the accommodation was very comfortable. Indeed, the chimneys were some of the earliest domestic chimneys in Britain. Thirteen "*old men*" were accommodated in what must have been luxurious accommodation in its day. The adjacent chapel was in a poor state by the eighteenth century and was rebuilt in 1820. Further changes took place in 1870, including insertion of high quality Victorian stained glass, the later stained glass windows by John Piper being installed in the twentieth century. 
+
+The tenancy arrangements for residents are quite unique. Residents are "*appointed*" by the Trustees and do not pay a rent, but a weekly maintenance charge. Consequently, they do not have the usual tenants' rights. If you're interested in occupying an apartment, there's a lengthy waiting list! 
+
+Improvements to the accommodation occurred in 1929 but the main changes took place in the 1960s when a new west wing was built, followed by further extensions in the 1970s. There are now 24 well appointed apartments, accommodating over 30 residents. Many Society members will be aware that new building work is now underway. Eighteen new apartments are being provided in a building which will respect the historic use of brick and timber on the site, but include state of the art environmental measures. It will uphold the high quality of architectural design which has been consistently applied to the site. The new construction has not been without its incidents, notably the discovery of 48 medieval graves. Their contents are now being examined at York University. Initial findings date the remains to between the fourteenth to sixteenth centuries. Whether the discovery is an Augustinian burial ground, or perhaps plague graves awaits the results of the forensic analysis. Meanwhile, the construction works are also uncovering musket balls (from Civil War skirmishes?), clay pipes and Georgian coins. 
+
+We all thought that we knew the history of St John's Hospital, but there's always something fresh to discover in Lichfield. One mystery that still remains, however, is the foundation's name. No one knows why it was named for St John by Roger de Clinton. Perhaps from a distance of almost 900 years we will never discover the answer. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
