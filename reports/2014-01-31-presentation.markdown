@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Presentation by the Leader of the Council"
+author: "Roger Hockney"
+tags: ["Local Government"]
+categories: ['Meeting report']
+date: 2014-01-31T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+Each January we look forward to a presentation from a senior member of the Council. This year Cll'r Wilcox, the council Leader, shared with us an update on the Council's activities. Cll'r Ian Pritchard, Deputy Leader and portfolio holder for Economy and Development, and Richard King, Strategic Director for Democracy, Development and Legal Services were also present. Such an all-star line-up faced over 60 members of Society and visitors, who filled the meeting room.
+<!-- more -->
+Cll'r Wilcox briefly took us through some of the key issues being addressed by the Council. The problems with the City Centre paving where being addressed by meetings with contractors and the three councils involved. Replacement materials were being sourced and he was hopeful that the problem would be resolved this year. The Lichfield City Centre Partnership comprising traders and Council officers were working towards a regeneration and promotion strategy which would be the subject of consultation in the Spring. The Civic Society would be invited to comment. The delays to the Friarsgate scheme had proved to be a frustrating episode. Since its conception, the retailing world had changed; consequently the scheme had to be revised. The new developer, Development Securities, was close to signing up an anchor tenant for a redesigned, downsized scheme. The emerging redesign would see the scale of retailing reduced, a redesigned car park, the retention of the cinema and the relocation of the bus station back across the road from the railway station. Any redesign would be the subject of public consultation.
+
+Cll'r Wilcox recognised that we were drinking in the "*last chance saloon*". The blight caused by delays meant that no decisions could be made on the future of buildings occupying the site, not the least of which is the "*patched up*" multi-storey car park. The Council was working to bring forward revised proposals in its Local Plan. The public Inquiry into the Council's proposals last year had led to the need to identify land for a further 900-1300 dwellings. This they had done and public consultation would start shortly. It was important, he said, to have a Plan in place; otherwise the Council was vulnerable to challenge through opportunist planning applications. They were working to bring forward the Southern By-pass, by sourcing funding from the two Local Economic Partnerships as well as the developer. In conclusion, he stressed that the Council's funding was being substantially reduced. As a consequence, services were bound to be reduced too. The Council was looking at ways of saving money by sharing functions across boundaries with other local authorities. Fifteen schemes were already in place.
+
+Question time brought, predictably, a robust response from the audience on a number of issues. The Council was heavily criticised for its revised position on the construction of the Southern By-pass. The construction of the road was now no longer a prerequisite for the housing development; there was not even a requirement to phase the housing, so that only part be constructed prior to the road's completion. The absence of a through link, under the railway, for a considerable time after the housing was completed was seen as perverse, leading to major congestion in the vicinity. Cll'r Pritchard defended the Council's position by explaining that they were under pressure to find new housing land and allow a start to be made on building. The road would follow. Many saw this as a policy of despair.
+
+In response to a question on the Council's approach to the Localism Act, it was explained that it had undertaken a number of detailed consultation exercises. This was rebutted from the floor; consultation required the Council to listen and take on board views. It was felt that most were ignored; the Council had its own agenda which it pursued. Further queries were raised on the future of the former Kwiksave store (we're in the hands of the developer); the absence of a cycling strategy; the dangerous condition of the A5127 through Streethay, where pedestrians using the narrow pavement are at risk from the traffic, especially heavy lorries, a situation that could only deteriorate if the major housing development envisaged occurred; and the apparent inability of the Council to bring Persimmon Homes to the negotiating table to honour the legal agreement associated with the protection of the former Sandfields Pumping Station and its historic engine. The Council was also criticised for the apparent weakness of its Infrastructure Strategy. New housing was being built, but there was no associated construction of social and transport facilities of the correct scale to match that growth.
+
+All three Council representatives undertook to take the audience's comments away for further consideration; whether the views of the members of the Society and visitors who attended this meeting will influence Council thinking is for future judgement.
+
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
+
