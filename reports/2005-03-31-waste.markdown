@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Waste - Food for Thought"
+author: "Anon"
+tags: ""
+categories: [“Meeting report"]
+date: 2005-03-31T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+On 24th March the Society had hoped to have welcomed Amin Hadi, Development Manager for Homezone Ltd to address us on the Lichfield Retirement Village. Unfortunately, he withdrew at short notice and his place was taken by our Vice Chairman, Roger Hockney, who entertained us to a spirited talk on Waste. 
+
+Roger is no stranger to the topic, since, prior to his retirement last year, he was involved at national level with the problem of coping with the country's growing waste mountain. Four hundred million tonnes of waste are created in the UK each year, of which fourteen million tonnes are household waste - our waste. The total amount of waste is rising each year by between three and four per cent. It's the responsibility of our District Council to collect it, but the County Council has to find ways of disposing of it. 
+
+So what is the Government doing to tackle this problem which threatens to double the amount of waste created between 1995 and 2020? Well, it's signed up to a number of European Directives (along with other member States) and is committed to reducing waste creation on a number of fronts. First it has adopted a principle called the "*Waste Heirarchy*". The aim is to drive waste disposal to the top of the hierarchy, that is by minimising the amount of waste in the first place. Industrial manufacturing processes need to be more efficient for instance. If minimisation isn't practical then reuse comes next. Our charity shops are a good example of the reuse principle; so are furniture cooperatives. 
+
+Next comes recycling and composting. We as a nation have signed up to recycling 25% of our household waste by 2006, yet despite our efforts, the current national average is a paltry 14.5%. Lichfield Council is, of course, leading the way with a rate of over 45%. Next comes recovery, meaning energy recovery. This is government-speak for incineration with the heat being used to generate electricity. And finally, we have landfill at the bottom of the list. About 75% of our waste is landfilled, so there's a long way to go to reduce our reliance on it. 
+
+Roger then quickly looked at some of the specific waste items that we have to deal with. Two million cars are scrapped each year and new regulations mean that they have to be carefully dismantled and the various materials recycled. Although 75% of the 43 million vehicle tyres scrapped annually are recycled for products such as carpet underlay and sports surfaces, much has still to be done. Tyres are already banned from landfill sites, but another use for them is to burn them in cement kilns. Electrical and electronic goods will by August this year also have to be carefully dismantled and their constituent parts recycled. Fridges already have to be scrapped separately and their CFCs drained since they are ozone-depleting substances. 
+
+Landfill is also being made an uneconomic solution for waste disposal by the imposition of the landfill tax, currently at £15 per tonne. This means that landfill will soon be as expensive as incineration. 
+
+Roger's impromptu talk certainly gave us all food for thought and reminded us how important it is for all householders to play their part, especially in recycling.
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
