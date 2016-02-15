@@ -1,0 +1,16 @@
+---
+layout: post
+title: "St Giles Hospice"
+author: "Roger Hockney"
+tags: "Local history"
+categories: [“Meeting report"]
+date: 2007-12-31T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+Competition from other Christmas events meant that only thirty members came together on the evening of 11 December to enjoy coffee and mince pies and listen to the Chief Executive of St.Giles Hospice, Peter Holiday give a very upbeat presentation on the work of, and future plans for, St.Giles Hospice. First, looking at the past, Peter told us that its origins could be traced back to a debate about the future of the vicarage in the early 1970s when the concept of palliative care was very much in its infancy. From those early days, when the inpatient unit was very small, and work in the community, especially supporting individuals in their own homes, was limited, we have seen the Hospice grow to assume a central role in palliative care throughout a large part of southern Staffordshire. Yet, the demands on the service will see the inpatient unit rise from eighteen to twenty seven beds with the proposed new extensions. The Hospice will remain an important base for work within the community. Its team of Community Nurses range from Uttoxeter to Sutton Coldfield, from Cannock to Ashby de la Zouch. 
+
+But the work of the hospice needs funding. Its total annual budget is £6 million, of which £2 million comes from the government, leaving £4 millions to be raised each year by the Hospice and its supporters. About £2.5 million is raised through fundraising initiatives, the shops make an annual profit of £500,000 and the highly successful Hospice lottery raises one million pounds annually. This balancing act has to be achieved each year - year in, year out. This is no mean task. The challenge will get harder, with a start on the anticipated major extensions scheduled for May 2009. We must wish them well. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>

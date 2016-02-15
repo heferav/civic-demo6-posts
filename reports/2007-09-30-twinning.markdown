@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Lichfield's Twin Towns"
+author: "Roger Hockney"
+tags: "Local Government"
+categories: [“Meeting report"]
+date: 2007-09-30T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+September's presentation for members was provided by the City Council's Twinning Officer, Julie Dewhurst. A sparsely attended meeting enjoyed an interesting talk, focussing on both the establishment of our twinning links and the events arranged annually based on them. 
+
+Limberg an der Lahn, to give it its full title, is a small Cathedral city close by Frankfurt, about 550 miles from Lichfield. With its cathedral and close links to one of Germany's biggest cities, it has many similarities to our own City. Its population is around 30,000 and its historic sixteenth century half-timbered buildings make it a tourist attraction, situated as it is on one of the main tourist routes south into Austria and Switzerland. 
+
+Ste Foy-les-Lyon is also a small town, situated on a hill overlooking the French city of Lyons. With a population of about 2,200 persons, it is a dormitory settlement for nearby Lyons, yet retains a peaceful, village atmosphere. We were told that the townsfolk are particularly proud of the towns extensive green spaces. It's about 750 miles from Lichfield. Interestingly, both Limberg and Ste Foy have been twinned with each other for over 40 years. 
+
+Twining was launched in Lichfield in September 1992 when Lichfield joined the annual cycle of twinning events with the two towns. Each year until recently, one of the three has hosted celebrations in rotation. In 1995 for the first time it was our turn. We chose to feature a highly successful twinning orchestral concert at the Civic Hall. In subsequent years we have organised a range of cultural activities, including morris dancing, sports events, church services and choral singing. In the intervening years, our twin towns have arranged banquets, walks, church festivals and youth events. 
+
+But regular events are only part of the picture. The annual celebrations now take place every two years, but the channels of communication are always open for smaller scale exchanges. In particular, youth exchanges have been very popular, more especially with our colleagues in Ste Foy and Limberg. Aren't out young people as enthused by the idea of spending time in these towns? Julie closed by inviting all members to consider supporting the twinning initiative. There's always room for more volunteers, especially so since Lichfield is the next host city from Friday 25th to Monday 28th April next year. She also suggested that members might like to consider joining the Twinning Association. Julie can be contacted at the City Council Offices should you require further information.
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
