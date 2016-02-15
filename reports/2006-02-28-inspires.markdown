@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The Lichfield Inspires Project"
+author: "Roger Hockney"
+tags: ["City Centre","Cathedral"]
+categories: [“Meeting report"]
+date: 2006-02-28T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+Following the Society's AGM on the evening of 21st February, over forty members listened to an entertaining talk by the Very Rev. Adrian Dorker, Dean of Lichfield Cathedral, on the new Lichfield Inspires project. 
+
+Placing his talk in context, he reminded us that Christian worship had existed on the site of the Cathedral for over thirteen hundred years and during that time there had been four buildings on the site. We must not therefore regard the current building as one which should not evolve over time, just as previous buildings had. It needed to evolve to reflect modern society and its needs. There was, however, a balance to be struck between its religious mission and its role has a welcoming building for both religious and secular users. How do you make the Cathedral an accessible venue for all, yet ensure its central role as a place of religious worship is not prejudiced? 
+
+So we were taken on a journey around the Cathedral, looking at the proposed improvements. Starting outside, signage to the Cathedral needs reviewing and parking in the Close rationalising. Where should Cathedral visitors park? This remains unresolved. The signage around and inside the immediate entrance is to be improved. Much thought is going into the immediate entrance area. Small and cluttered, it's an obstacle course that needs much improvement to ensure that visitors arrive inside to see an uninterrupted view along the length of the Nave. 
+
+The rich story of the Cathedral will also be represented through the medium of up to nine touch screen TVs located on the visitors' route around the Cathedral. The Chapter House will be "decluttered" and an audio visual story of the Cathedral installed. The Lichfield Gospels and the newly discovered Lichfield Angel, two important Anglo Saxon treasures, will be newly displayed in the Lady Chapel. The silver currently in the Consistory Court Treasury will be moved out into new, secure display cases in the Choristers' Aisle, together with some of the more celebrated items from the Chapter House Library. The South Transept will be used for temporary exhibitions for which new state of the art display boards will be required. 
+
+But what about cost? It is hoped that the £4.5m cost (which includes aid for repairs to the stained glass) will be 60% funded by the Heritage Lottery, The rest must come from the Cathedral's own resources, other grants and fund-raising. For the outcome of the Lottery bid, we must wait another year. What we do know is that the success of the bid depends upon the Lottery Fund being satisfied that the project opens up the Cathedral to the wider public and is not just about conserving artefacts for a limited audience. Conserving the Cathedral as a place of worship, yet popularising its history will be a difficult balancing act. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
