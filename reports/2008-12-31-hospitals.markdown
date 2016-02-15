@@ -2,7 +2,7 @@
 layout: post
 title: "The Story of Lichfield and District Hospitals"
 author: "Roger Hockney"
-tags: ""
+tags: "Local History"
 categories: [“Meeting report"]
 date: 2008-12-31T00:00:00+00:00
 permalink: /meeting_reports/:year-:month-:title.html
