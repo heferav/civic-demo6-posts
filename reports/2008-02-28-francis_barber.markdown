@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Who Was Quashey"
+title: "Who Was Quashey?"
 author: "Roger Hockney"
 tags: ""
 categories: [“Meeting report"]
