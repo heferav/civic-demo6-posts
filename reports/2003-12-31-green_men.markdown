@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The Green Man From Roman Times to the Present Day"
+author: "Roger Hockney"
+tags: "History"
+categories: [“Meeting report"]
+date: 2003-12-31T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+The Society's meeting on 11th December welcomed Anthony Howard to speak on the subject of "*The Green Man*". 
+
+Little did the audience at the well attended meeting realise that the image of the Green man could be found in many cultures stretching back to Roman times. Usually we associate the image of the Green man, his face encircled with foliage - sometimes growing out of his mouth - with church carving. However the image is much more widespread and, particularly in more recent times, has been used as a form of architectural embellishment on buildings. 
+
+The origins of the Green Man are shrouded in mystery. Is it a pagan symbol representing the giver of life; or was it that this symbol was skillfully adapted by the Christian Church to symbolise rebirth, renewal and resurrection? Nobody knows. 
+
+Anthony took us back to the 12th century with his photographic exploration of this image, which occurs in church carving at this early time. We saw examples from Kilpeck in Herefordshire, Longdon in Staffordshire, Southwell and of course Lichfield Cathedral where many examples of the image can be found in the Lady Chapel. This has given rise to a further theory that the Green Man is in some way linked to the Virgin Mary who could be seen as an earth mother and consort. Continuing on the ecclesiastical theme, Anthony reminded us that the Green Man can not only be found in stone carving but in wood carving too - especially on misericords. 
+
+Moving on through the 16th century, you can still find evidence of the Green Man, but increasingly as an architectural motif; its earlier meaning now totally lost. Fewer images can be found from the early 17th to the mid 19th century, possibly because the architectural styles at that time did not encourage such carving. The Green Man blossomed again in the mid 19th century through the Gothic revival and Anthony then took us on a journey around Birmingham; where the city centre has over 100 examples on its Victorian buildings. Apart from obvious buildings such as the Council House, the Bell telephone exchange on Newhall Street and the Birmingham Midland Institute, the Great Western and Central Arcades are also worth a visit if you are looking for Green Men. The ultimate development of the concept of the Green Man can be found at the Custard Factory in Gibb Street, where a 40ft high statue has been erected. 
+
+Anthony gave us much food for thought in his presentation. Many of us will walk around our town and city centres in the future looking for these, often subtle, images.
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
