@@ -1,0 +1,22 @@
+---
+layout: post
+title: "The Association of Small Historic Towns and Villages"
+author: "Mike Tole"
+tags: ""
+categories: [“Meeting report"]
+date: 1998-02-28T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+The Society was delighted to welcome as our speaker to the AGM, Jo Rose the Director of the Association of Small Historic Towns and Villages of the United Kingdom, more familiarly known as ASHTAV. This is a network of societies, Councils and local groups working to protect and celebrate the individual character of these important settlements. The organisation started with the gathering together of a small group of people in 1990 to save a pub. From these humble origins it has grown to a membership of 200 societies and Councils. It provides a 24 hr. advice service, holds conferences and seminars, provides a Newsletter four times a year and has established links with Government Departments and other national bodies such as the Countryside Commission. 
+
+Jo Rose is therefore, well equipped to speak with authority about the inherent qualities of our historic towns and villages and the problems which have beset them and may well continue to do so. She began by reminding us that our much loved heritage is largely man made. It is the creation of people grafting a living, creating buildings, constructing roads. It is a process which goes back to Neolithic times and beyond and which has given rise to a rich, diverse and constantly changing landscape. Change is a fact of life which we have to accept. It is the "*Management of Change*" which is critical and, in this respect, society has not proved to be particularly adept in its treatment of small towns and villages in the recent past. To illustrate this, Jo Rose showed slides of attractive landscapes despoiled by the encroachment of unsympathetic new housing, of the blurring of the hard edge of the boundaries between the town and countryside, of picturesque streets marred by yellow lines and highway signs, of incongruous porches and extensions on traditional cottages, and much else. It was a catalogue of poor planning and architecture, a lack of concern for detail in design and an indifference to local tradition and context. 
+
+That it does not have to be like that, was demonstrated by pictures which showed how modern housing could be shoehorned successfully into an area respecting the materials of nearby buildings and their form and the "*grain*" of the surrounding development. There was also a picture of a village which showed how more housing rather than less could be used to produce a planning gain in the form of a park for the local community. There were examples of good design; the cutlery factory on the site of a former circular gas holder at Hope in Derbyshire sticks in the mind. 
+
+The talk was a reminder to members of the Society that we should accept neither the bad nor the indifferent but should strive for the highest quality in the treatment of the City's townscape and rural surroundings. It also posed many questions. How does one ensure that this high quality can be achieved when so much can take place outside planning control and when the physical companions of traffic management schemes -- signs, painted lines, traffic lights, etc. -- are prescribed in their location and form by regulation ? How does one persuade people that good design is not necessarily more expensive ? How can one translate the pursuit of good practice -- perhaps more readily available in smaller scale developments -- into the economic realities of mass housing schemes? 
+
+Jo Rose gave a stimulating and interesting talk befitting the importance of the occasion. All present were captivated by her enthusiasm and knowledge. Everyone to whom I have spoken have remarked how much they enjoyed the evening. It is to be hoped that Jo, who had driven from Somerset -- and back on the same day -- enjoyed our company as much as we did hers and that she considered her long journey to be worthwhile.
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>

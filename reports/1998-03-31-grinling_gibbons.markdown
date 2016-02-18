@@ -1,0 +1,20 @@
+---
+layout: post
+title: "You Could Not See the Joins"
+author: "Mike Tole"
+tags: "The arts"
+categories: [“Meeting report"]
+date: 1998-03-31T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+It is said of the later work of Grinling Gibbons that its quality had diminished and that the joins -- previously invisible -- between the modules in his pieces of sculpture became apparent. Such could not be said of Michael Painter's excellent and seamless talk about this famous woodcarver to the Society on Tuesday 17<sup>th</sup> March. Michael Painter is himself a woodcarver and sculptor of some repute. He is a Master Craftsman and head of department at Linford Bridgemans which was established in 1877 to work on the west front of the Cathedral. He has studied at the European School for Craftsmen at San Servolo in Venice and in 1994 was elected as a member into the Royal Society of British Sculptors. He has undertaken work on National Trust buildings, Westminster Abbey, St. Paul's Cathedral and more recently on the fire damaged Windsor Castle. He is well equipped therefore to talk with authority about his illustrious 17<sup>th</sup> Century predecessor. 
+
+Grinling Gibbons was born of English parents in Rotterdam in 1648. He came to York before 1668 where he spent five years with a friend whose grandfather was a stonemason. He then moved to Deptford where he produced carvings on ships and later established a workshop at Ludgate. An early mentor was Edward Pearce who designed the Bishop' Palace in Lichfield and carved the pine staircase at Sudbury Hall, where work by Gibbons can also be seen. Gibbons is best known for his intricate carvings of fruit and flowers, trees, small animals and cherub's heads. He was recommended by Lely, Evelyn and May to Charles II and Christopher Wren. He was given the position of maintenance carver at Windsor Castle and after twenty years he became Surveyor of the King's Works. He was commissioned by Charles II to carve the Cosimo Panel to celebrate the Duke of Tuscany's visit to England. With the accession of James, he undertook much work for Wren mending the choir stalls in St. Paul's Cathedral and the altar piece in St. James Church in London. At the age of 43 Gibbons achieved his pinnacle with his carvings at Petworth House in Sussex. Later he undertook work at Hampton Court. He died in 1721. 
+
+Michael Painter set the life and work of Grinling Gibbons within the context of a brief illustrated resume of the development of woodcarving -- from Egyptian carving dating from 2700 BC through African masks, Greek temples, carving on the prows of Viking boats, a thirteenth century carving of a monk on a choir stall, wood engravings by Durer and carvings from Moreton Hall. Crucial to the development of wood carving was the discovery of perspective first employed in painting by Giotto and then Donatello in sculpture in the 1420's. An extraordinary illusion of depth was created within the shallow thicknesses of wood and stone. In addition from 1480 the wood carver began to move away from the painting of his work. Such must have been the influences on Grinling Gibbons. In his turn he inspired and was an influence on later sculptors -- Jonathan Main at Trinity College Oxford, Edmund Carpenter at Belton House in Lincolnshire, Charles Henry Simpson at Southwell Minster, Harry Dean at Cheltenham Ladies College. The names of these later sculptors were unfamiliar to me before Michael Painter's talk but then the whole evening was a voyage of discovery in which one learned much about the skills and products of the wood carvers. 
+
+Today there are too few skilled practitioners in comparison with the many who work in stone. We are therefore privileged to have in our midst such a craftsman as Michael Painter and one who is also a fine lecturer. It was a stimulating, entertaining, and eloquent presentation befitting the occasion of the Society's first meeting in the comfortable, albeit rather warm setting of the Swan Hotel. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
