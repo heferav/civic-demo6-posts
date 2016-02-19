@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The History of Affordable Housing"
-author: "Mike Tole"
+author: "Ivor Mitchell"
 tags: ""
 categories: [“Meeting report"]
 date: 1993-02-28T00:00:00+00:00

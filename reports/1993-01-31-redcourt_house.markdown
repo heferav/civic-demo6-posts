@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Redcourt House, Lichfield"
-author: "Mike Tole"
+author: "Ivor Mitchell"
 tags: ""
 categories: [“Meeting report"]
 date: 1993-01-31T00:00:00+00:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lindford Bridgeman - an Overview"
-author: "Mike Tole"
+author: "Ivor Mitchell"
 tags: "Commerce"
 categories: [“Meeting report"]
 date: 1993-03-31T00:00:00+01:00
