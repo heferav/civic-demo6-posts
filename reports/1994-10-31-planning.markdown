@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Major Planning Proposals in Lichfield"
+author: "Mike Tole"
+tags: ["Local government","Planning"]
+categories: [“Meeting report"]
+date: 1994-10-31T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+It takes a brave person to address a small civic society like ours on such an ethereal subject as "*The Secretary of State's Draft Strategic Guidance for the West Midlands*" but that is what John Colburn, the District Council's Director of Planning, did on the evening of Thursday 20<sup>th</sup> October. It was an illuminating, lucid and interesting talk, but a shame that the numbers in attendance were so modest. 
+
+Numbers! They are at the core of the Strategic Guidance. In the last Newsletter is was mentioned that the Secretary of State for the Environment expects land to be provided in the Region as a whole to accommodate 285,000 dwellings in the period from 1991 to 2011. Staffordshire's share of this is 57,000 and Mr Colburn hazarded a guess that this would mean identifying sites for a further 1,800 dwellings over and above those already contained within the draft Lichfield Area Plan -- the publication of which is expected later this month. 
+
+Where are these extra houses to go? Government guidance is that development should be concentrated to the west and north (that is us) of the conurbation, in substantial settlements from small market towns upwards and on areas with good public transport facilities. Development in villages and rural areas is out. The "*in words*" these days are transport corridors and sustainability (whatever that may mean). Put these words together and the conclusion is simply that Lichfield is in the front line of potential growth areas. Where does that put the prospect of new settlements in the District to alleviate the pressures on our beautiful City? The question was not posed at our meeting. The Government in its wisdom does encourage the establishment of new settlements -- but of no less than 10,000 dwellings. Simple mathematics tell us that the requirements in the District do not seem to justify the building of a new settlement of that size. The signs are not good but we shall have to wait and see. 
+
+John Colburn did not flinch from discussing an issue which he knows would provoke disquiet and concern in the light of the already controversial proposals in the draft Local Plan. He told us the truth as he saw it -- a courageous thing to do. Whatever the truth may be, we may not like it but we must face up to it and fight it if necessary to fashion the truth to meet our own vision. 
+
+At the end of the talk John Colburn referred to natters of more immediate interest. With "*fingers crossed*" he anticipated that Phase I of the Precinct (Mark 3) would begin in November and that this phase would be complete before Christmas 1995. The Council is putting forward a budget which will put in place further measures for the restriction of traffic in the City Centre -- probably not full pedestrianisation but at least a start. Pedestrian flows in the City Centre are now back to 1989 levels and, excluding the Precinct, the vacancy rate amongst shops is, at 7 -- 8%, low. 
+
+All in all this was a thoroughly enjoyable, albeit in some ways disturbing, evening. The lasting impression is that so much of what as local people, including the Council, we try to achieve is outside of our control; it is in the hands of others -- mainly others in Whitehall. The Society's thanks must go to John Colburn for taking the time and trouble to address us in such an excellent fashion. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>

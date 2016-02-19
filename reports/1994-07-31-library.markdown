@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Lichfield Library"
+author: "Ivor Mitchell"
+tags: ""
+categories: [“Meeting report"]
+date: 1994-07-31T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+The Society's meeting on Thursday 21<sup>st</sup> July was addressed by Mr Iain Young, the Lichfield Group Librarian. His articulate enthusiasm, laced with a tinge of merry wit, led us through areas of the Library Service of which many of us -- even regular Library users -- were previously ignorant. The County Library Service has ten groups, of which the Lichfield Group is one. This Group serves the District and embraces the branches, the Mobile Library and the Trailer Library. The Group Librarian leads a team of a Library Manager and five Librarians supported by Library Assistants. In an age when some are concerned with "*how we are seen*" -- the image affliction -- Mr Young amused us with a diversion into the realms of fictional librarians and their portrayal by familiar screen actors -- including the "*trash-peddling*" Peter Sellers. 
+
+The famous libraries of the world received a mention and included the statistic that the US Library of Congress loses 300,000 copies each year! Happily Lichfield is not in this dubious league, despite the 400,000 visitors to the Lichfield Group libraries last year. 
+
+The determined concentration upon children's literacy, ranging from toddlers with mum to teenager provision, could be regarded as the most important part of the service; but the impressive range of services to all sections and interests of the community underlines the cultural significance of what is provided. The preservation of the present County-wide structure should be a major consideration in the current Local Government reorganisation, for this is one of the areas where size correlates with efficiency and flexibility. 
+
+My Young's talk was an excellent example of knowledge, enthusiasm, commitment and careful preparation. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
