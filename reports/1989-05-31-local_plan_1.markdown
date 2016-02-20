@@ -1,0 +1,28 @@
+---
+layout: post
+title: "The Lichfield Local Plan - Part I"
+author: "Ivor Mitchell"
+tags: "Planning"
+categories: [“Meeting report"]
+date: 1989-05-31T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+The members attending the meeting of the Society held on Thursday 18<sup>th</sup> May, were enabled to learn much about the thinking behind the Lichfield Local Plan. Mr John Colburn, in a well studied and well prepared professional presentation, flooded the meeting with impressive and highly relevant statistics. Most of these assumed an acceptance of a premise relating to demographic forecasts and the projection of trends. 
+
+The Local Plan is a consequence of, and is required to conform to, the County Structure Plan which is likely to be subjected to a public examination. 
+
+The basic premise of the Local Plan is that we must have houses to meet the requirements of local people. The migration in and out of Lichfield District is in approximate balance but increasing household living standards are being sought and the need for new houses is based upon the expansion of household size and the changing age structure of the population. 
+
+In welcoming the formal comments on the Local Plan that had been submitted by the Civic Society, Mr Colburn pointed out that "*the house building lobby*" was claiming the need to an even greater expansion in house building. The implication of this appears to be that, in claiming that Lichfield is already big enough and is evidently suffering stress as a result of accelerated growth in recent years, the Civic Society should be aware that the Local Plan does not describe the worst scenario that could befall the City. 
+
+If one accepted that more houses will be needed, then the question of "*Where?*" becomes most pertinent. Questioners suggested that windfall sites, such as the one now occupied by "*Safeways*" and those shortly to be occupied by "*Do-it-All*" and "*Tescos*", were lost possibilities. Alternatives to building in the City's green spaces, it was suggested, could be found in the creation of new rural villages. Mr Colburn pointed out that the Rural Area Plan is soon to be published. He said that the dual objectives of scaling down the rate of growth and achieving a balance between rural and urban growth was the aim. 
+
+Among other questions from the floor was one about road development plans on the south side of the City, apparently to relieve congestion in St John Street. A suggestion was made that in view of the demand for dwellings by single people, vacant houses might be converted into maisonettes. The suggestion that the real planners are in fact the developers was unsurprisingly refuted. 
+
+A lively evening, useful as a preparation for any opportunity that might be afforded for the Society to raise important issues at a public inquiry. In the face of the power of the developers and the building lobby we should not be diverted from our belief that in a democracy we have a duty to grasp every opportunity to become better informed and we should accept nothing as being inevitable, while there are channels through which we can have our informed views heard. 
+
+During the evening Alan Richardson presented a brief contribution on the reactive and pro-active functions of amenity societies such as ours. Whilst it would be immodest for our Society to claim any one area in which we have been outstandingly successful, we could recognise that the Lichfield Civic Society had been active and continues to be so in all of the functions described by Mr Richardson. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>

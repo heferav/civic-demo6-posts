@@ -1,0 +1,24 @@
+---
+layout: post
+title: "The Lichfield Local Plan - Part II"
+author: "Ivor Mitchell"
+tags: "Planning"
+categories: [“Meeting report"]
+date: 1989-09-30T00:00:00+01:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+The meeting held on Thursday 14<sup>th</sup> September was the second this year to be addressed by Mr John Colburn, Lichfield District Council's Director of Planning. This in itself is a measure of the value the Society puts upon close contact with the Planning Department's senior officer, and his recognition of the Society's contribution to the consultative process. 
+
+Mr Colburn explained the procedural situation with regard to the "*Lichfield Local Plan*" in the context of the County Structure Plan Review in November. The Local Plan has been subjected to revision by the District Council and authority to proceed is being sought from the Secretary of State for the Environment. This means that the plan could be "*on ice*" until the middle of 1990 when a public inquiry can be expected. 
+
+He then went through the revised plan point by point, making parallel reference to the Civic Society's submitted comments, the Draft Local Plan and the Revised Local Plan. Unsurprisingly "*housing*" was given much attention. The proposed number of new dwellings remains as previously but with the anticipated number of infill sites, for less than ten dwellings, being reduced from 400 to 300 units; the land at St Michael's Hospital being withdrawn and the density of the housing on the Walsall Road area development being increased. This latter revision is said to provide an opportunity for lower cost dwellings to be built and for more open space to be provided for community purposes. Other land for housing is to be found on King Edward's school playing fields, where the sale of land is to produce finance for the building of a public sports facility. 
+
+We were assured that new roads would precede phased development but the Society's suggestion that design quality should be controlled by a design commission was rejected as "*unlikely to produce a cohesive scheme*". However the Director is considering how a high standard of design can be achieved. 
+
+The proposed alterations to the Southern By-Pass route have already been widely publicised and it is said to have been realigned "*to reduce impact*". (It continues to be vigorously opposed by SLOG). Mr Colburn acknowledged that the By-Pass is unlikely to be built during the Plan Period. All this is of course subject to the outcome of the Structure Plan "*examination in public*" to be held in the Ingestre Suite, County Showground, West Road, Stafford from 7<sup>th</sup> to 17<sup>th</sup> November. The Civic Society is among those listed as participants.
+
+Mr Colburn received many questions on the conclusion of his talk, many of them concerned with traffic and transport.
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
