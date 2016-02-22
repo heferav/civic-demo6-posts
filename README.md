@@ -1,6 +1,6 @@
 # Lichfield Civic Society website (HTML5 upgrade), beta testing site
 
-If you are looking for the official Lichfield Civic Society website [then follow this link]((http://www.lichfieldcivicsociety.org.uk/main.htm)
+If you are looking for the official Lichfield Civic Society website [then follow this link](http://www.lichfieldcivicsociety.org.uk/main.htm)
 
 ## Why
 
