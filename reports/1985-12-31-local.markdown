@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Planning and the Environment"
+author: "Mike Tole"
+tags: "Planning"
+categories: [“Meeting report"]
+date: 1985-12-31T00:00:00+00:00
+permalink: /meeting_reports/:year-:month-:title.html
+---
+#### Meeting Report ####
+
+The last meeting of the old year was lively and well attended. Hardy surprising considering that the speaker was John Nicholls, Director of Planning to the District Council, the man at the sharp end of the decisions made by our elected representatives. His talk covered car parking, transport management, shopping, potential sites, land use and Conservation Areas. The balance between long and short stay parking and the areas where these are needed is under consideration. Although some increase in parking is envisaged at the back of Dam Street we understand that no major encroachment on Stowe Fields will occur. 
+
+Status quo rules in the Market Place but the completion of the Swan Link Road and consequent pedestrianisation of Bird Street is in prospect for 1987. The "*big shop*" question was explored especially in terms of siting -- for how long can the Friary be protected? Improvements in Sandford Street, trees, banks, building societies and shops, enhancement of the Greenhill / Birmingham Road junction and the Bus Station were all given a mention. 
+
+Finally, Mr Nicholls expressed his appreciation of the Society's comments and constructive suggestions in response to planning applications. 
+
+<p align="right"><i> {{page.author}} <br> {{ page.date | date: '%B %Y' }} </i></p>
