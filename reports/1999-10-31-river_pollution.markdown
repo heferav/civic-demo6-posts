@@ -4,7 +4,7 @@ title: "River Pollution in the Trent Valley"
 author: "Brenda Towlson"
 tags: "Ecology"
 categories: [“Meeting report"]
-date: 1998-10-31T00:00:00+00:00
+date: 1999-10-31T00:00:00+00:00
 permalink: /meeting_reports/:year-:month-:title.html
 ---
 #### Meeting Report ####
